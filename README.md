@@ -1,5 +1,9 @@
 # About this project 
 
+### Objective
+
+The main objective of this project is to analyze the behavior of 23 cryptocurrencies and predict the trend that the cryptocurrency will have in the future, that is, to develop a forecast that allows me to visualize its possible behavior. For this, it was necessary to extract the data through the CoinDesk API, once the data was obtained, it was necessary to carry out the exploratory data analysis and finally use some machine learning models to predict the behavior of cryptocurrencies.
+
 ### Crytocurrency
 
 A cryptocurrency is known as a virtual or digital exchange currency that operates under smart contracts. Today there are thousands of digital currencies that can be bought, sold and transferred. Each cryptocurrency is a chain of encrypted data that has a unique value, so cryptography is widely used to secure each transaction and control the creation of more units. The ideal is that cryptocurrencies are decentralized, that is, that the management and power over them are not banks or other entities, but the end users who manage their own resources on a platform known as exchain. According to the above, an exchain is a platform that works with smart contracts developed under a technology known as blockchain.
